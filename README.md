@@ -1,7 +1,5 @@
-## Hi there 👋
+## Hi there 👋 I'm Suyash Gautam
 <br>
-
-### I'm Suyash Gautam
 
 ![](https://komarev.com/ghpvc/?username=suyashgautam&color=green)
 
