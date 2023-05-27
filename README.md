@@ -7,8 +7,8 @@
 - 🔭 I’m currently working on Text2SQL, Warli, Alimento 
 - 🌱 I’m currently learning NextJS, TypeScript, Helidon, ReactJS
 - 👯 I’m looking to collaborate on projects involving NextJS, ReactJS
-- 🤔 I’m looking for help with Typescript
-- 💬 Ask me about NodeJS, C++, Javascript, Docker, Kubernetes, Python
+- 🤔 I’m looking for help with [Text2SQL](https://github.com/Samagra-Development/Text2SQL)
+- 💬 Ask me about NodeJS, C++, Java, Javascript, Docker, Kubernetes, Python
 - 📫 How to reach me: suyash.gautam97@gmail.com
 - ⚡ Fun fact: I am a die hard Manchester United fan
 
